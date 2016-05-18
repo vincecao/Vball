@@ -16,3 +16,9 @@ C:\Users\vincec\Downloads\VBall\VBall\obj\Debug\VBall.csprojResolveAssemblyRefer
 C:\Users\vincec\Downloads\VBall\VBall\obj\Debug\VBall.Form1.resources
 C:\Users\vincec\Downloads\VBall\VBall\obj\Debug\VBall.Properties.Resources.resources
 C:\Users\vincec\Downloads\VBall\VBall\obj\Debug\VBall.csproj.GenerateResource.Cache
+C:\Users\vincec\Documents\GitHub\Vball\VBall project\bin\Debug\VBall.exe.config
+C:\Users\vincec\Documents\GitHub\Vball\VBall project\obj\Debug\VBall.exe
+C:\Users\vincec\Documents\GitHub\Vball\VBall project\obj\Debug\VBall.pdb
+C:\Users\vincec\Documents\GitHub\Vball\VBall\bin\Debug\VBall.exe.config
+C:\Users\vincec\Documents\GitHub\Vball\VBall\obj\Debug\VBall.exe
+C:\Users\vincec\Documents\GitHub\Vball\VBall\obj\Debug\VBall.pdb

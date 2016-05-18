@@ -10,6 +10,8 @@ There are two different control settings in the game, *autoMoving* and *manualMo
 
 This game is mainly using two different colours in the interface part to keep the elements clear and apparent.
 
+_*require /font/intro.otf font*_
+
 ## Screenshots ##
 ### Multi Mode ###
 ![](/img/screenshots/MultiMode.png "Multi Mode")
