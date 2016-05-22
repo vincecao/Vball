@@ -243,3 +243,5 @@ private void timer2_Tick(object sender, EventArgs e)
 - TcKs. *[How to display a Windows Form in full screen on top of the taskbar? [duplicate]](http://stackoverflow.com/questions/2272019/how-to-display-a-windows-form-in-full-screen-on-top-of-the-taskba)*
 
 - Microsoft. *[Timer Class](https://msdn.microsoft.com/en-us/library/system.threading.timer(v=vs.110).aspx)*
+
+*Made by: Vince Cao @2015*
